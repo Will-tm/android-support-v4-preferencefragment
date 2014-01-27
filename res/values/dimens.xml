@@ -19,6 +19,8 @@
 -->
 <resources>
     
+	<!-- Preference fragment padding, top -->
+    <dimen name="preference_fragment_padding_top">0dp</dimen>
 	<!-- Preference fragment padding, bottom -->
     <dimen name="preference_fragment_padding_bottom">0dp</dimen>
     <!-- Preference fragment padding, sides -->
